@@ -1,6 +1,9 @@
 Build an Alexa City Guide Skill in ASK Java SDK
 ===============================================
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 This Alexa sample skill is a template for a basic city-guide skill.Provided some data about a city's restaurants, attractions, Alexa will recommend a restaurant based on the meal type or recommend an attraction.
